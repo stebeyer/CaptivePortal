@@ -1,3 +1,3 @@
 CaptivePortal
 =============
-Easy to user Captive Portal
+Easy to use Captive Portal
